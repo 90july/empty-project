@@ -1,4 +1,4 @@
-package net.sunnada.service.service01;
+package net.sunnada.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
